@@ -1,7 +1,7 @@
 # camera-motion-estimation
 ## globally optimal relative pose estimation with gravity prior
 After aligning the y-axes of the views with the gravity direction,
-<img src="https://github.com/YingnaSu/camera-motion-estimation/tree/main/image/align.png" width="600" height="180"/>
+<img src="https://github.com/YingnaSu/camera-motion-estimation/blob/main/image/align.png" width="600" height="180"/>
 
 the essential matrix with single-axis rotation satisfies:
 <img src="https://github.com/YingnaSu/camera-motion-estimation/tree/main/image/eq1.png" width="100" height="20"/>
